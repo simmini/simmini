@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/.NET-#512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
+   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white"> 
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
